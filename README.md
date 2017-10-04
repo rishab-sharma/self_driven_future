@@ -1,11 +1,11 @@
-# How_to_simulate_a_self_driving_car
-This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Youtube
+# Self Driven Future
+My_self_driving_car_project
 
-# This video will be released on Wednesday, May 17th at 10 AM PST. This code is a work in progress.
+Author: Rishab Sharma (rishab-sharma)
 
 ## Overview
 
-This is the code for [this](https://youtu.be/EaY5QiZwSP4) video on Youtube by Siraj Raval. We're going to use Udacity's [self driving car simulator](https://github.com/udacity/self-driving-car-sim) as a testbed for training an autonomous car. 
+This is the code for my project where I used Udacity's [self driving car simulator](https://github.com/udacity/self-driving-car-sim) as a testbed for training an autonomous car. 
 
 ## Dependencies
 
@@ -44,10 +44,6 @@ python model.py
 ```
 
 This will generate a file `model-<epoch>.h5` whenever the performance in the epoch is better than the previous best.  For example, the first epoch will generate a file called `model-000.h5`.
-
-## Credits
-
-The credits for this code go to [naokishibuya](https://github.com/naokishibuya). I've merely created a wrapper to get people started.
 
 
 
