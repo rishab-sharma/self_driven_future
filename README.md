@@ -1,7 +1,7 @@
 # Self Driven Future
 My_self_driving_car_project
 
-Author: Rishab Sharma (rishab-sharma)
+Author: Rishab Sharma (rishab-sharma) MAIT , New Delhi
 
 ## Overview
 
