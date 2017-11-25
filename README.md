@@ -7,6 +7,10 @@ Author: Rishab Sharma (rishab-sharma)
 
 This is the code for my project where I used Udacity's [self driving car simulator](https://github.com/udacity/self-driving-car-sim) as a testbed for training an autonomous car. 
 
+## Demo Video
+
+[![Self Driving car](https://img.youtube.com/vi/YJBRLkoVijE&t=9s/0.jpg)](https://www.youtube.com/watch?v=YJBRLkoVijE&t=9s)
+
 ## Dependencies
 
 You can install all dependencies by running one of the following commands
