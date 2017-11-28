@@ -1,4 +1,5 @@
-# Self Driven Future
+# Self Driven Future with EEG
+## EEG Code not open-sourced
 My_self_driving_car_project
 
 Author: Rishab Sharma (rishab-sharma)
